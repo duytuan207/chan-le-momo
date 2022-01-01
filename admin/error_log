@@ -1,0 +1,101 @@
+[02-May-2021 19:19:28 Asia/Ho_Chi_Minh] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 30
+[02-May-2021 19:19:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: CSM_ADMIN in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/header.php on line 4
+[02-May-2021 19:19:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:19:28 Asia/Ho_Chi_Minh] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 30
+[02-May-2021 19:19:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: CSM_ADMIN in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/login.php on line 4
+[02-May-2021 19:19:36 Asia/Ho_Chi_Minh] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 30
+[02-May-2021 19:19:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: CSM_ADMIN in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/login.php on line 4
+[02-May-2021 19:19:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: CSM_ADMIN in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/login.php on line 113
+[02-May-2021 19:19:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: status in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/login.php on line 132
+[02-May-2021 19:19:36 Asia/Ho_Chi_Minh] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 30
+[02-May-2021 19:19:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 662
+[02-May-2021 19:19:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 665
+[02-May-2021 19:19:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: counter in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/index.php on line 144
+[02-May-2021 19:19:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 662
+[02-May-2021 19:19:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 665
+[02-May-2021 19:19:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: counter in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/index.php on line 161
+[02-May-2021 19:19:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: admin_message in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/fooder.php on line 1
+[02-May-2021 19:19:53 Asia/Ho_Chi_Minh] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 30
+[02-May-2021 19:19:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 662
+[02-May-2021 19:19:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 665
+[02-May-2021 19:19:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: counter in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/index.php on line 144
+[02-May-2021 19:19:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 662
+[02-May-2021 19:19:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 665
+[02-May-2021 19:19:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: counter in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/index.php on line 161
+[02-May-2021 19:19:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: admin_message in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/fooder.php on line 1
+[02-May-2021 19:19:54 Asia/Ho_Chi_Minh] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 30
+[02-May-2021 19:19:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 662
+[02-May-2021 19:19:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 665
+[02-May-2021 19:19:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: counter in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/index.php on line 144
+[02-May-2021 19:19:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 662
+[02-May-2021 19:19:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 665
+[02-May-2021 19:19:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: counter in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/index.php on line 161
+[02-May-2021 19:19:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: admin_message in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/fooder.php on line 1
+[02-May-2021 19:22:11 Asia/Ho_Chi_Minh] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 30
+[02-May-2021 19:22:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: admin_message in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/fooder.php on line 1
+[02-May-2021 19:22:18 Asia/Ho_Chi_Minh] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 30
+[02-May-2021 19:22:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: admin_message in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/fooder.php on line 1
+[02-May-2021 19:22:24 Asia/Ho_Chi_Minh] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 30
+[02-May-2021 19:22:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 19:22:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: admin_message in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/fooder.php on line 1
+[02-May-2021 19:22:24 Asia/Ho_Chi_Minh] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 30
+[02-May-2021 19:22:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: admin_message in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/fooder.php on line 1
+[02-May-2021 19:22:25 Asia/Ho_Chi_Minh] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 30
+[02-May-2021 19:22:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: admin_message in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/fooder.php on line 1
+[02-May-2021 19:25:42 Asia/Ho_Chi_Minh] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 30
+[02-May-2021 19:25:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 662
+[02-May-2021 19:25:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 665
+[02-May-2021 19:25:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: counter in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/index.php on line 144
+[02-May-2021 19:25:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 662
+[02-May-2021 19:25:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 665
+[02-May-2021 19:25:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: counter in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/index.php on line 161
+[02-May-2021 19:25:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: admin_message in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/fooder.php on line 1
+[02-May-2021 20:53:40 Asia/Ho_Chi_Minh] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 30
+[02-May-2021 20:53:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: CSM_ADMIN in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/header.php on line 4
+[02-May-2021 20:53:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: value in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 707
+[02-May-2021 20:53:40 Asia/Ho_Chi_Minh] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/CSM/function.php on line 30
+[02-May-2021 20:53:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: CSM_ADMIN in /home/ybfvhlfphosting/public_html/test.doicardnhanh.com/admin/login.php on line 4
